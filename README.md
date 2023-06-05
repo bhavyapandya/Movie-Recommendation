@@ -30,3 +30,7 @@ The movie recommendation system is based on a content-based recommendation algor
 ## Conclusion
 
 The movie recommendation system provides an easy and efficient way to recommend movies to users based on their past preferences. The system can be further improved by incorporating additional features and algorithms.
+
+## Author
+
+Bhavya Pandya
