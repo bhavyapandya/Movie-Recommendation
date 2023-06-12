@@ -34,4 +34,4 @@ The movie recommendation system provides an easy and efficient way to recommend 
 
 ## Author
 
--Bhavya Pandya.(bhavyapandya)
+Bhavya Pandya
