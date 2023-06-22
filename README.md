@@ -8,7 +8,7 @@ This is a movie recommendation system based on the Movie Dataset available on Ka
 - [Dataset](#dataset)
 - [System Architecture](#system-architecture)
 - [Conclusion](#conclusion)
-- [Authors](#author)
+- [Author](#author)
 
 ## Introduction
 
