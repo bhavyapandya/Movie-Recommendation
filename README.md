@@ -28,7 +28,7 @@ The movie recommendation system is based on a content-based recommendation algor
 4. Machine Learning: The system trains a machine learning algorithm to predict the movies that the user might like based on their past preferences.
 5. Recommendation generation: The system recommends movies based on the predictions of the machine learning algorithm.
 
-## Conclusion
+## Conclusion(s)
 
 The movie recommendation system provides an easy and efficient way to recommend movies to users based on their past preferences. The system can be further improved by incorporating additional features and algorithms.
 
