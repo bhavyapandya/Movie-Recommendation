@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation
 
 This is a movie recommendation system based on the Movie Dataset available on Kaggle. The system uses a content-based recommendation algorithm to recommend movies based on the features of movies that the user has liked in the past.
 
